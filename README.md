@@ -30,10 +30,7 @@ gcd()
 ```
 
 ## Output:
-```
-30
-25
-GCD of two numbers is: 5
-```
+![image](https://github.com/gayumee/GCD-of-two-numbers/assets/149037327/645fa3fa-467c-47a9-bd79-d33e6fe5d901)
+
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
